@@ -1,0 +1,53 @@
+{
+  "name": "mural-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@types/jspdf": "^1.3.3",
+    "@types/merge-images": "^1.1.0",
+    "axios": "^0.19.2",
+    "bootstrap": "^3.4.1",
+    "browser-image-compression": "^1.0.9",
+    "canvas2image": "^1.0.5",
+    "firebase": "^7.14.0",
+    "fuctbase64": "^1.4.0",
+    "http-json": "^1.2.2",
+    "http-json-request": "0.0.4",
+    "image-to-base64": "^2.0.1",
+    "imagemagick": "^0.1.3",
+    "imagemagick-convert": "^1.0.3",
+    "jspdf": "^1.5.3",
+    "merge-images": "^2.0.0",
+    "pdf-image": "^2.0.0",
+    "pdf-to-base64": "^1.0.2",
+    "pdf2pic": "^1.3.13",
+    "pdfjs-dist": "^2.3.200",
+    "request": "^2.88.2",
+    "request-json": "^0.6.4",
+    "v-viewer": "^1.5.1",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
+    "vue-js-modal": "^1.3.33",
+    "vue-pdf": "^4.0.8",
+    "vue-property-decorator": "^8.4.1",
+    "vue-router": "^3.1.6",
+    "vuetify": "^2.2.11",
+    "vuex": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "^4.3.0",
+    "@vue/cli-plugin-typescript": "^4.3.0",
+    "@vue/cli-plugin-vuex": "^4.3.0",
+    "@vue/cli-service": "^4.3.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "typescript": "~3.8.3",
+    "vue-cli-plugin-vuetify": "^2.0.5",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.3.0"
+  }
+}
